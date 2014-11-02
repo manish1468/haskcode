@@ -1,4 +1,4 @@
 haskcode
 ========
 
-haskell libraries
+haskell libraries for use in development
